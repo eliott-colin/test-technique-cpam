@@ -9,7 +9,7 @@ Application simple qui parcourt les nombres de 1 à 6457 et applique les règles
 - sinon → le nombre
 
 ## Accéder à la version en ligne 
-https://github.io/eliott-colin/test-technique-cpam/
+[https://github.io/eliott-colin/test-technique-cpam/](https://eliott-colin.github.io/test-technique-cpam/)
 
 <pre>
 ├── .github/
